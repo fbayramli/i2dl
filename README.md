@@ -1,2 +1,2 @@
 # i2dl
-Introduction to Deep Learning (IN2346)
+TUM - Introduction to Deep Learning (IN2346)
